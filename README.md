@@ -33,11 +33,12 @@ Any physicist or engineer or professor at any level (if they are not familiar wi
 In the early 1900’s on the planet Earth an inventor by the name of Nikola Tesla discovered that you could make electrical circuits that are SELF POWERED.
 
 SELF POWERED? -> Sustaining their own energy input once activated -> such a thing is considered an over unity energy device because there are more units of energy OUTPUT than required to start the circuit to begin with…. 
-THIS ^ violates ‘conservation of energy’ as it is taught in university and EVERYWHERE around the planet Earth as of this writing  today 01/10/2024.. 	
+THIS ^ violates ‘conservation of energy’ as it is taught in university and EVERYWHERE around the planet Earth as of this writing  today 01/10/2024. 	
 
-	A very brief explanation as to what happened to Tesla’s device? -> Inventors & scientists at that time (circa de 1900) didn’t have lots of money….They are relatively poor when it comes to the economic hierarchy systems we use here in our modern society. This is true even today. The only way an inventor at that time could have ‘money’ to spend on new inventions / scientific work is either they were funded by a certain financial interest (Tesla was by J.P Morgan Chase) OR they invent and are somehow able to sell their invention, patent, etc to recuperate the costly endeavor of inventing the thing into physical reality in the first place. 
-	This is a very risky venture. . . to say the least. 
-	So when Nikola Tesla first showed SELF POWERED CIRCUITS to J.P. Morgan Chase (hoping that it would incur great financial abundance from the financier to share such inventions with the planet) you could imagine how much of Tesla’s career was doomed when J.P Morgan famously responded:
+A very brief explanation as to what happened to Tesla’s device? -> Inventors & scientists at that time (circa de 1900) didn’t have lots of money….They are relatively poor when it comes to the economic hierarchy systems we use here in our modern society. This is true even today. The only way an inventor at that time could have ‘money’ to spend on new inventions / scientific work is either they were funded by a certain financial interest (Tesla was by J.P Morgan Chase) OR they invent and are somehow able to sell their invention, patent, etc to recuperate the costly endeavor of inventing the thing into physical reality in the first place. 
+This is a very risky venture. . . to say the least. 
+So when Nikola Tesla first showed SELF POWERED CIRCUITS to J.P. Morgan Chase (hoping that it would incur great financial abundance from the financier to share such inventions with the planet) you could imagine how much of Tesla’s career was doomed when J.P Morgan famously responded:
+
 “That’s foolish, you can’t put a meter on it”
 
 As Lt. Thomas Bearden would say - you can’t run these kind of projects with ‘bean counters’ (lmfao); your project would never get off the ground. Because this planet is not really run by a government that you think it is; it is run by the oil/banking financial complex.
