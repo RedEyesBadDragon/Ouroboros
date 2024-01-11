@@ -23,7 +23,9 @@ Namaste <3
 -V
 *IMPORTANT SIDENOTE******************************************************************
 
-OUROBOROS - Planet Earth's first OPEN SOURCE Over Unity/Zero Point Energy (ZPE) Development Resources
+OUROBOROS - Planet Earth's first OPEN SOURCE Over Unity/Zero Point Energy (ZPE) Development Resources. 
+
+DETAILED DESIGN BRIEFS & EXPLANATIONS CAN BE FOUND ON https://www.youtube.com/@RedEyesBadDragon 
 
 Synopsis:
 Planet Earth lives in a lie. Every engineer on this planet; every physicist in university; etc etc etc; is taught a lie of physics. 
