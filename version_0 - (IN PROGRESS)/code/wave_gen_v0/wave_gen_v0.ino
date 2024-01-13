@@ -4,7 +4,8 @@
 
 //SETUP CODE-RUNS ONCE////////////////////////////////////////////////////////
 void setup() {
-  // put your setup code here, to run once:
+  Serial.begin(9600);   //begin the serial w/ baud rate
+
   pinMode(CARRIER_WAVE, OUTPUT);  
   digitalWrite(CARRIER_WAVE, LOW);
 
@@ -17,8 +18,9 @@ void loop() {
   // put your main code here, to run repeatedly:
   
   if(1==1) {
+    Serial.print("hello world");
     squares();
-
+    
   }
 }
 ///////////////////////////////////////////////////////////////////////////
@@ -26,7 +28,7 @@ void loop() {
 //-----------------------------------------------------------------------//
 void squares() {
 
-  int t = 1000;    //Delay time between on and off square waves (ms)
+  int t = 50;    //Delay time between on and off square waves (ms)
   //int t0 = 0;   //Delay time after ON signal for square wave (ms)
   //int t1 = 0;   //Delay time after OFF signal for square wave (ms)  
 
