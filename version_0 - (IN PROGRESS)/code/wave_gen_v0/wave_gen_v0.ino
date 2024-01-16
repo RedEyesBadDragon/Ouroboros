@@ -1,5 +1,31 @@
-//LIBRARY INIT - fetch base instruction "libraries" from internet
+/*
+This program is an open source waveform generator for the
+Arduinno platform of microcontrollers.
+-
+We are using it to drive a carrier wave for and Over-Unity
+Electromagnetic Field transformer (i.e. an "infinite energy device").
+-
+All the information for how and why such devices are possible can 
+be found at:
+https://www.youtube.com/@RedEyesBadDragon
+https://www.siriusdisclosure.com
+-
+As of now all these things are being developed LIVE 
+via: https://www.twitch.tv/redeyesbaddragon
 
+Written By: V Drakaina
+Start Date: 01/11/2024
+End Date: TBD
+
+-
+This program utilizes some open source code listed below:
+-
+Arduino Docs: FunctionGenerator.ino
+
+*/
+
+//LIBRARY INIT - fetch base instruction "libraries" from internet
+//#include "Waveforms.h"
 #define CARRIER_WAVE 5
 
 //SETUP CODE-RUNS ONCE////////////////////////////////////////////////////////
@@ -15,20 +41,48 @@ void setup() {
 
 //MAIN LOOP-RUNS INDEFINETLEY///////////////////////////////////////////////
 void loop() {
-  // put your main code here, to run repeatedly:
   
-  if(1==1) {
-    Serial.print("hello world");
-    squares();
-    
-  }
+  Serial.println("Wave Form Begin");
+  
+  //Squares Basic
+  Serial.println("YOU ARE GENERATING SQUARES");
+  squares();
+
+  //Sines Basic 
+  Serial.println("YOU ARE GENERATING SINES");
+  //sines();
+  
+  //Triangle Basic
+  Serial.println("YOU ARE GENERATING TRIANGLES");
+  //triangle();
+
+  //Saw Basic
+  Serial.println("YOU ARE GENERATING SAWS");
+  //saw();
+
+  //Variable Single Pulse
+  Serial.println("YOU ARE GENERATING VSP");
+  //vsp();
+
+  //Variable Resonant Pulse 
+  Serial.println("YOU ARE GENERATING VRP");
+  //vrp();
+
 }
 ///////////////////////////////////////////////////////////////////////////
 
 //-----------------------------------------------------------------------//
+//FUNCTION: squares
+//INPUTS: void
+//OUTPUTS: void
+//
+//Details: This function outputs a variable duty cycle and frequency 
+//square wave where the MAX frequency/voltage peak achievable is determined by the 
+//Arduino's clock speed/operating voltage.  
+//-----------------------------------------------------------------------//
 void squares() {
 
-  int t = 50;    //Delay time between on and off square waves (ms)
+  int t = 500;    //Delay time between on and off square waves (ms)
   //int t0 = 0;   //Delay time after ON signal for square wave (ms)
   //int t1 = 0;   //Delay time after OFF signal for square wave (ms)  
 
@@ -42,22 +96,52 @@ void squares() {
 }
 //-----------------------------------------------------------------------//
 
-
-
-
-/*
+//-----------------------------------------------------------------------//
+//FUNCTION: sines
+//INPUT: 
+//OUTPUT:
+//
+//Details:
+//-----------------------------------------------------------------------//
 void sines() {
 
-  return();
+  
 }
+//-----------------------------------------------------------------------//
 
+//-----------------------------------------------------------------------//
+//FUNCTION: triangles
+//INPUT:
+//OUTPUT:
+//
+//Details:
+//-----------------------------------------------------------------------//
 void triangles() {
 
-  return();
 }
+//-----------------------------------------------------------------------//
 
-void resonantPulse() {
+//-----------------------------------------------------------------------//
+//FUNCTION: vsp
+//INPUT:
+//OUTPUT:
+//
+//Details:
+//-----------------------------------------------------------------------//
+void vsp() {
 
-  return();
 }
-*/
+//-----------------------------------------------------------------------//
+
+//-----------------------------------------------------------------------//
+//FUNCTION: vrp
+//INPUT:
+//OUTPUT:
+//
+//Details:
+//-----------------------------------------------------------------------//
+void vrp() {
+
+ 
+}
+//-----------------------------------------------------------------------//
