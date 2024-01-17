@@ -35,6 +35,9 @@ void setup() {
   pinMode(CARRIER_WAVE, OUTPUT);  
   digitalWrite(CARRIER_WAVE, LOW);
 
+  analogWriteResolution(12);  //set the output resolution to 12bit(4096 levels)
+  analogReadResolution(12);   //set the input resolution to 12bit
+
 }
 /////////////////////////////////////////////////////////////////////////////
 
