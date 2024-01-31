@@ -19,13 +19,18 @@ End Date: TBD
 */
 
 
-#define CARRIER_WAVE 5
+#define CARRIER_WAVE 9
+#define LED 7
 
 void setup() {
   Serial.begin(9600);   //begin the serial w/ baud rate
 
   pinMode(CARRIER_WAVE, OUTPUT);  
   digitalWrite(CARRIER_WAVE, LOW);
+
+  //For ADAFRUIT FLORA 
+  pinMode(LED, OUTPUT);
+  digitalWrite(LED, HIGH);
 }
 
 void loop() {
