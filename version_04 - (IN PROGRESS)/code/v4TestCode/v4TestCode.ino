@@ -53,7 +53,7 @@ void loop() {
 //-----------------------------------------------------------------------//
 void squares() {
 
-  int t = 1; //950;    //Delay time between on and off square waves (us)
+  int t = 3;      //Delay time between on and off square waves (us)
   //int t0 = 0;   //Delay time after ON signal for square wave (us)
   //int t1 = 0;   //Delay time after OFF signal for square wave (us)  
 
